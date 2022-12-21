@@ -1,3 +1,4 @@
+package estruturaSequecial;
 import java.util.Scanner;
 public class Codego4 {
     public static void main(String[] args) {
